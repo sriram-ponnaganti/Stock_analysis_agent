@@ -1,0 +1,11 @@
+# Web Dashboard Interface
+streamlit==1.32.0
+
+# Financial Data Source
+yfinance==0.2.37
+
+# Data Manipulation
+pandas==2.2.1
+
+# Interactive Visualizations
+plotly==5.19.0
