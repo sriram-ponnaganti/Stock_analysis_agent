@@ -1,5 +1,10 @@
 # 📈 AI-Powered Real-Time Stock Analyst
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit)
+![Finance](https://img.shields.io/badge/Data-yFinance-green?style=for-the-badge&logo=yahoo)
+![Visualization](https://img.shields.io/badge/Charts-Plotly-blueviolet?style=for-the-badge&logo=plotly)
+
 A professional-grade real-time stock market visualization and analysis dashboard built with Python.
 
 ## ✨ Features
