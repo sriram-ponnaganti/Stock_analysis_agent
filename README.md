@@ -6,6 +6,19 @@
 ![Visualization](https://img.shields.io/badge/Charts-Plotly-blueviolet?style=for-the-badge&logo=plotly)
 
 A professional-grade real-time stock market visualization and analysis dashboard built with Python.
+<table border="0">
+ <tr>
+    <td>
+      <p align="center"><b>Chat Greeting</b></p>
+      <img src="screenshot1.png" alt="TechAssist Greeting" width="400">
+    </td>
+    <td>
+      <p align="center"><b>Troubleshooting Logic</b></p>
+      <img src="screenshot2.png" alt="TechAssist Logic" width="400">
+    </td>
+ </tr>
+</table>
+
 
 ## ✨ Features
 * **Real-Time Data:** Fetches live market data via `yfinance`.
